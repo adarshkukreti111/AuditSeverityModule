@@ -1,0 +1,14 @@
+C:\Users\hp\Pictures\Kanwarpreet\AuditSeverityModule\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.csproj.AssemblyReference.cache
+C:\Users\hp\Pictures\Kanwarpreet\AuditSeverityModule\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Pictures\Kanwarpreet\AuditSeverityModule\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.AssemblyInfoInputs.cache
+C:\Users\hp\Pictures\Kanwarpreet\AuditSeverityModule\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.AssemblyInfo.cs
+C:\Users\hp\Pictures\Kanwarpreet\AuditSeverityModule\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.csproj.CoreCompileInputs.cache
+C:\Users\hp\Pictures\Kanwarpreet\AuditSeverityModule\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Pictures\Kanwarpreet\AuditSeverityModule\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\Microservice\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Microservice\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Microservice\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Microservice\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.AssemblyInfo.cs
+C:\Users\hp\source\repos\Microservice\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Microservice\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\source\repos\Microservice\AuditSeverityModule\obj\Release\netcoreapp3.1\AuditSeverityModule.MvcApplicationPartsAssemblyInfo.cache

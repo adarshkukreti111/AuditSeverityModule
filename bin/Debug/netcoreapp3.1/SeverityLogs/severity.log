@@ -1,0 +1,165 @@
+INFO  10:20:30 Application started. Press Ctrl+C to shut down.
+INFO  10:20:30 Application started. Press Ctrl+C to shut down.
+INFO  10:20:30 Hosting environment: Development
+INFO  10:20:30 Hosting environment: Development
+INFO  10:20:30 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:20:30 Content root path: D:\MyAspDotNetProjects\AuditSeverityModule
+INFO  10:20:31  Http GET Request From: AuditSeverityController
+INFO  10:21:21  Http POST Request From: AuditSeverityController
+INFO  10:21:21  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:21  Response Method of SeverityRepo Called 
+INFO  10:21:32  Http POST Request From: AuditSeverityController
+INFO  10:21:32  SeverityResponse Method of SeverityProvider Called 
+INFO  10:21:32  Response Method of SeverityRepo Called 
+INFO  10:23:21 Application started. Press Ctrl+C to shut down.
+INFO  10:23:21 Application started. Press Ctrl+C to shut down.
+INFO  10:23:21 Hosting environment: Development
+INFO  10:23:21 Hosting environment: Development
+INFO  10:23:21 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditSeverityModule
+INFO  10:23:21 Content root path: C:\Users\suvin\Downloads\Mfpe\AuditSeverityModule
+INFO  10:23:21  Http GET Request From: AuditSeverityController
+INFO  10:26:36  Http POST Request From: AuditSeverityController
+INFO  10:26:36  SeverityResponse Method of SeverityProvider Called 
+INFO  10:26:36  Response Method of SeverityRepo Called 
+INFO  04:34:30 Application started. Press Ctrl+C to shut down.
+INFO  04:34:30 Application started. Press Ctrl+C to shut down.
+INFO  04:34:30 Hosting environment: Development
+INFO  04:34:30 Hosting environment: Development
+INFO  04:34:30 Content root path: C:\Users\kanwa\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  04:34:30 Content root path: C:\Users\kanwa\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  04:34:30  Http GET Request From: AuditSeverityController
+INFO  09:33:07 Application started. Press Ctrl+C to shut down.
+INFO  09:33:07 Application started. Press Ctrl+C to shut down.
+INFO  09:33:07 Hosting environment: Development
+INFO  09:33:07 Hosting environment: Development
+INFO  09:33:07 Content root path: C:\Users\kanwa\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  09:33:07 Content root path: C:\Users\kanwa\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:35:42 Application started. Press Ctrl+C to shut down.
+INFO  10:35:42 Application started. Press Ctrl+C to shut down.
+INFO  10:35:42 Hosting environment: Development
+INFO  10:35:42 Hosting environment: Development
+INFO  10:35:42 Content root path: C:\Users\kanwa\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:35:42 Content root path: C:\Users\kanwa\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:35:42  Http GET Request From: AuditSeverityController
+INFO  10:39:23  Http POST Request From: AuditSeverityController
+INFO  10:39:31  Http POST Request From: AuditSeverityController
+INFO  10:39:31  SeverityResponse Method of SeverityProvider Called 
+INFO  10:39:32  Response Method of SeverityRepo Called 
+ERROR 10:39:33 Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+INFO  10:43:58 Application started. Press Ctrl+C to shut down.
+INFO  10:43:58 Application started. Press Ctrl+C to shut down.
+INFO  10:43:58 Hosting environment: Development
+INFO  10:43:58 Hosting environment: Development
+INFO  10:43:58 Content root path: C:\Users\kanwa\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:43:58 Content root path: C:\Users\kanwa\Desktop\AuditManagementSystem-master\AuditManagementSystem-master\AuditSeverityModule
+INFO  10:43:58  Http GET Request From: AuditSeverityController
+INFO  10:44:42  Http GET Request From: AuditSeverityController
+INFO  10:45:02  Http GET Request From: AuditSeverityController
+INFO  10:45:26  Http POST Request From: AuditSeverityController
+INFO  10:45:34  Http POST Request From: AuditSeverityController
+INFO  10:45:34  SeverityResponse Method of SeverityProvider Called 
+INFO  10:45:34  Response Method of SeverityRepo Called 
+INFO  10:45:49  Http POST Request From: AuditSeverityController
+INFO  10:45:49  SeverityResponse Method of SeverityProvider Called 
+INFO  10:45:49  Response Method of SeverityRepo Called 
+INFO  10:45:59  Http POST Request From: AuditSeverityController
+INFO  10:45:59  SeverityResponse Method of SeverityProvider Called 
+INFO  10:45:59  Response Method of SeverityRepo Called 
+INFO  10:46:05  Http POST Request From: AuditSeverityController
+INFO  10:46:05  SeverityResponse Method of SeverityProvider Called 
+INFO  10:46:05  Response Method of SeverityRepo Called 
+INFO  10:46:13  Http POST Request From: AuditSeverityController
+INFO  10:46:13  SeverityResponse Method of SeverityProvider Called 
+INFO  10:46:13  Response Method of SeverityRepo Called 
+INFO  10:46:24  Http POST Request From: AuditSeverityController
+INFO  10:46:24  SeverityResponse Method of SeverityProvider Called 
+INFO  10:46:24  Response Method of SeverityRepo Called 
+INFO  10:46:36  Http POST Request From: AuditSeverityController
+INFO  10:46:36  SeverityResponse Method of SeverityProvider Called 
+INFO  10:46:36  Response Method of SeverityRepo Called 
+INFO  10:46:41  Http POST Request From: AuditSeverityController
+INFO  10:46:41  SeverityResponse Method of SeverityProvider Called 
+INFO  10:46:41  Response Method of SeverityRepo Called 
+INFO  01:04:24 Application started. Press Ctrl+C to shut down.
+INFO  01:04:24 Application started. Press Ctrl+C to shut down.
+INFO  01:04:24 Hosting environment: Development
+INFO  01:04:24 Hosting environment: Development
+INFO  01:04:24 Content root path: C:\Users\kanwa\Desktop\final apis\AuditSeverityModule
+INFO  01:04:24 Content root path: C:\Users\kanwa\Desktop\final apis\AuditSeverityModule
+INFO  01:04:25  Http GET Request From: AuditSeverityController
+INFO  01:06:31  Http POST Request From: AuditSeverityController
+INFO  01:06:31  SeverityResponse Method of SeverityProvider Called 
+INFO  01:06:32  Response Method of SeverityRepo Called 
+INFO  01:06:49  Http POST Request From: AuditSeverityController
+INFO  01:06:49  SeverityResponse Method of SeverityProvider Called 
+INFO  01:06:49  Response Method of SeverityRepo Called 
+INFO  12:11:42 Application started. Press Ctrl+C to shut down.
+INFO  12:11:42 Application started. Press Ctrl+C to shut down.
+INFO  12:11:42 Hosting environment: Development
+INFO  12:11:42 Hosting environment: Development
+INFO  12:11:42 Content root path: C:\Users\kanwa\Desktop\final apis\AuditSeverityModule
+INFO  12:11:42 Content root path: C:\Users\kanwa\Desktop\final apis\AuditSeverityModule
+INFO  12:11:43  Http GET Request From: AuditSeverityController
+INFO  12:13:02  Http GET Request From: AuditSeverityController
+INFO  12:13:10  Http POST Request From: AuditSeverityController
+INFO  12:13:10  SeverityResponse Method of SeverityProvider Called 
+INFO  12:13:11  Response Method of SeverityRepo Called 
+INFO  12:13:29  Http POST Request From: AuditSeverityController
+INFO  12:13:29  SeverityResponse Method of SeverityProvider Called 
+INFO  12:13:29  Response Method of SeverityRepo Called 
+INFO  12:13:44  Http POST Request From: AuditSeverityController
+INFO  12:13:44  SeverityResponse Method of SeverityProvider Called 
+INFO  12:13:44  Response Method of SeverityRepo Called 
+INFO  08:01:27 Application started. Press Ctrl+C to shut down.
+INFO  08:01:27 Application started. Press Ctrl+C to shut down.
+INFO  08:01:27 Hosting environment: Development
+INFO  08:01:27 Hosting environment: Development
+INFO  08:01:27 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  08:01:27 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  08:01:28  Http GET Request From: AuditSeverityController
+INFO  09:02:09 Application started. Press Ctrl+C to shut down.
+INFO  09:02:09 Application started. Press Ctrl+C to shut down.
+INFO  09:02:09 Hosting environment: Development
+INFO  09:02:09 Hosting environment: Development
+INFO  09:02:09 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  09:02:09 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  09:02:10  Http GET Request From: AuditSeverityController
+INFO  09:05:12 Application started. Press Ctrl+C to shut down.
+INFO  09:05:12 Application started. Press Ctrl+C to shut down.
+INFO  09:05:12 Hosting environment: Development
+INFO  09:05:12 Hosting environment: Development
+INFO  09:05:12 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  09:05:12 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  09:05:14  Http GET Request From: AuditSeverityController
+INFO  10:52:14 Application started. Press Ctrl+C to shut down.
+INFO  10:52:14 Application started. Press Ctrl+C to shut down.
+INFO  10:52:14 Hosting environment: Development
+INFO  10:52:14 Hosting environment: Development
+INFO  10:52:14 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  10:52:14 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  10:52:16  Http GET Request From: AuditSeverityController
+INFO  11:02:18 Application started. Press Ctrl+C to shut down.
+INFO  11:02:18 Application started. Press Ctrl+C to shut down.
+INFO  11:02:18 Hosting environment: Development
+INFO  11:02:18 Hosting environment: Development
+INFO  11:02:18 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  11:02:18 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  11:02:18  Http GET Request From: AuditSeverityController
+INFO  11:04:12  Http POST Request From: AuditSeverityController
+INFO  11:04:12  SeverityResponse Method of SeverityProvider Called 
+INFO  11:04:12  Response Method of SeverityRepo Called 
+ERROR 11:04:17 One or more errors occurred. (No connection could be made because the target machine actively refused it.)
+INFO  12:56:01 Application started. Press Ctrl+C to shut down.
+INFO  12:56:01 Application started. Press Ctrl+C to shut down.
+INFO  12:56:02 Hosting environment: Development
+INFO  12:56:02 Hosting environment: Development
+INFO  12:56:02 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  12:56:02 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  12:56:02  Http GET Request From: AuditSeverityController
+INFO  12:58:37 Application started. Press Ctrl+C to shut down.
+INFO  12:58:37 Application started. Press Ctrl+C to shut down.
+INFO  12:58:37 Hosting environment: Development
+INFO  12:58:37 Hosting environment: Development
+INFO  12:58:37 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  12:58:37 Content root path: C:\Users\hp\source\repos\Microservice\AuditSeverityModule
+INFO  12:58:37  Http GET Request From: AuditSeverityController

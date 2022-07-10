@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c5b3e213-9ef8-4164-995a-e3330f71d183": {
+      "ProjectGuid": "c5b3e213-9ef8-4164-995a-e3330f71d183",
+      "DisplayName": "AuditSeverityModule",
+      "ColorIndex": 0
+    },
+    "2b3fda0e-a64c-4c54-a3b7-ff4972b4985f": {
+      "ProjectGuid": "2b3fda0e-a64c-4c54-a3b7-ff4972b4985f",
+      "DisplayName": "AuditSeverityTesting",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
